@@ -1,0 +1,28 @@
+_repo: Educational-Work-of-the-Girl-Scouts_29373
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bryant, Louise Stevens
+    alias: Bryant, Louise Frances Stevens
+    birthdate: 1885
+    deathdate: 1959
+    gutenberg_agent_id: '33881'
+    url: http://www.gutenberg.org/2009/agents/33881
+description: ''
+gutenberg_issued: '2009-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29373'
+  lccn: e22000004
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girl Scouts -- United States'
+- !lcc 'HS'
+title: Educational Work of the Girl Scouts
+url: http://www.gutenberg.org/ebooks/29373
